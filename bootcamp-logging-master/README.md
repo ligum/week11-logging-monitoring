@@ -1,6 +1,6 @@
 # Elastic Workshop
 
-![image](https://github.com/sela-rhinops/bootcamp-monitoring/blob/master/images/prometheus.png)
+![image](https://github.com/sela-rhinops/bootcamp-logging/blob/master/images/eck.png)
 
 ## Description
 
