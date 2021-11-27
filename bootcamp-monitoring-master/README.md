@@ -1,6 +1,6 @@
 # Prometheus Operator Workshop
 
-![prometheus](/images/prometheus.png)
+![image](https://github.com/sela-rhinops/bootcamp-monitoring/blob/master/images/prometheus.png)
 
 ## Description
 
